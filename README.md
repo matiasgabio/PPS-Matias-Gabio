@@ -30,7 +30,7 @@
 - [7. Anexos](#7-anexos)
 
 
-## Introducción
+#1-introducción
 
 Este repositorio reúne los trabajos realizados en el marco del proyecto desarrollado durante las Prácticas Profesionales Supervisadas (PPS) de la carrera Ingeniería en Mecatrónica de la Facultad de Ingeniería, Universidad Nacional de Lomas de Zamora. 
 
