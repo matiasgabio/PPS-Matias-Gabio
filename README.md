@@ -6,7 +6,7 @@
 - [1. Introducción](#1-introducción)
 - [2. Descripción de la Empresa](#2-descripción-de-la-empresa)
 
-- [3. Proyecto 1 – Sistema de Control de Premix (Software)](#3-proyecto-1--sistema-de-control-de-premix-software)
+- [3. Proyecto 1 – Sistema de Control de Premix](#3-proyecto-1--sistema-de-control-de-premix-software)
   - [3.1 Objetivo](#31-objetivo)
   - [3.2 Requerimientos](#32-requerimientos)
   - [3.3 Desarrollo del Software](#33-desarrollo-del-software)
@@ -36,3 +36,8 @@ Este repositorio reúne los trabajos realizados en el marco del proyecto desarro
 
 El proyecto fue llevado a cabo en Molinos Río de la Plata. Comprendió el desarrollo de un software específico ("Programa para control de premix") y el diseño de una máquina que integra componentes mecánicos y eléctricos, orientada a mejorar procesos internos y aportar una solución aplicable al entorno industrial de la empresa ("Sistema de reproceso de pan y rebozado").
 
+# 2. Descripción de la Empresa
+
+
+# 3. Proyecto 1 – Sistema de Control de Premix
+## 3.1 Objetivo
