@@ -8,7 +8,7 @@
 
 - [3. Proyecto 1 – Sistema de Control de Premix](#3-proyecto-1--sistema-de-control-de-premix-software)
   - [3.1 Objetivo](#31-objetivo)
-  - [3.2 Requerimientos](#32-requerimientos)
+  - [3.2 Funcionalidades](#32-requerimientos)
   - [3.3 Desarrollo del Software](#33-desarrollo-del-software)
   - [3.4 Pruebas y Validación](#34-pruebas-y-validación)
   - [3.5 Resultados y Aportes](#35-resultados-y-aportes)
@@ -41,3 +41,13 @@ El proyecto fue llevado a cabo en Molinos Río de la Plata. Comprendió el desar
 
 # 3. Proyecto 1 – Sistema de Control de Premix
 ## 3.1 Objetivo
+El objetivo principal de este software es garantizar la trazabilidad, precisión y eficiencia en la elaboración de premix, reduciendo errores humanos, tiempos y asegurando el cumplimiento de los estándares de calidad.
+
+## 3.2 Funcionalidades
+El software está diseñado para optimizar y controlar el proceso de elaboración de premix de horneables en la planta de Esteban Echeverría. Este programa permite realizar un seguimiento preciso de las recetas seleccionadas, asegurando que los ingredientes sean los correctos, sus pesos sean verificados adecuadamente y que las cantidades pesadas sean notificadas de manera automática en SAP.
+### Principales funcionalidades:
+- Identificación de usuario: El operador podrá identificarse en el programa con la tarjeta RFID única e irrepetible que proporciona la empresa.
+- Selección de recetas: El usuario puede elegir la receta correspondiente al premix que se está elaborando.
+- Verificación de ingredientes: Se valida cada ingrediente mediante un script que conecta el software con SAP, utilizando las etiquetas generadas en el almacén.
+- Control de peso: La conexión con una balanza permite registrar los pesos de los ingredientes en tiempo real, asegurando la precisión en cada etapa del proceso y advirtiendo al operador el pesaje incorrecto del ingrediente.
+- Notificación automatizada: Una vez pesadas las cantidades requeridas, el software se encarga de notificar automáticamente a SAP (mediante la transacción CORK) la cantidad de bolsas procesadas, simplificando la carga administrativa.
