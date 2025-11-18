@@ -8,7 +8,7 @@
 
 - [3. Proyecto 1 – Sistema de Control de Premix](#3-proyecto-1--sistema-de-control-de-premix-software)
   - [3.1 Objetivo](#31-objetivo)
-  - [3.2 Funcionalidades](#32-requerimientos)
+  - [3.2 Funcionalidades](#32-funcionalidades)
   - [3.3 Desarrollo del Software](#33-desarrollo-del-software)
   - [3.4 Pruebas y Validación](#34-pruebas-y-validación)
   - [3.5 Resultados y Aportes](#35-resultados-y-aportes)
