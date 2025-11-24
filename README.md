@@ -73,9 +73,41 @@ El software está diseñado para optimizar y controlar el proceso de elaboració
   <img width="915" height="514" alt="image" src="https://github.com/user-attachments/assets/e48c627f-7729-4da1-8b96-5039d2d0d286" />
 
   Botón 'CAMBIAR RECETA': regresa a la pantalla anterior. Permite editar la selección de receta en caso de haber seleccionado una incorrecta.
-  
 
+  Para verificar los ingredientes se debe escanear el código de barras de la etiqueta del insumo proveniente del almacén.
+  <img width="849" height="345" alt="image" src="https://github.com/user-attachments/assets/5741f3dd-6f64-49ea-9e1b-c043e37ed7a2" />
 
+  Una vez escaneada pedirá el programa acceso a SAP. Solo se debe hacer click en 'OK'.
+  <img width="915" height="514" alt="image" src="https://github.com/user-attachments/assets/b5774775-bb82-4738-b9e7-ddf6ff8a55bb" />
+
+  - Ingrediente pertenece a la receta:
+    <img width="915" height="514" alt="image" src="https://github.com/user-attachments/assets/f16a6cbb-582d-44ee-b188-813f7b89b749" />
+
+    Se colocará el fondo en verde del ingrediente escaneado.
+
+  - Ingrediente no pertenece a la receta:
+    <img width="915" height="514" alt="image" src="https://github.com/user-attachments/assets/61707f47-84cb-4afc-8f2f-14357c8f4ad4" />
+
+    Saldrá un cartel de advertencia indicando el desvío.
+
+Una vez escaneados todos los ingredientes de la receta, el programa pasará automáticamente a la próxima pantalla.
+
+- Seteo de cantidad de bolsas
+  <img width="915" height="514" alt="image" src="https://github.com/user-attachments/assets/d3724dc2-51b4-4070-adfe-c0f5fada93af" />
+
+  En esta sección el operador deberá colocar la cantidad de bolsas que pesará y presionar en el botón 'COMENZAR PESADAS'.
+
+  <img width="915" height="514" alt="image" src="https://github.com/user-attachments/assets/cecd6aa3-5333-4747-9182-af008708ddf2" />
+
+  Automáticamente, se enviarán a imprimir las etiquetas que se deben pegar en las bolsas de los premix con los siguientes datos completados por el programa:
+  <img width="352" height="207" alt="image" src="https://github.com/user-attachments/assets/a57c4267-60f6-4075-8020-bcb9e4222bdd" />
+
+- Pesadas
+  Seteadas la cantidad de bolsas, el programa comenzará a hacer un control sobre la lectura de la balanza y el peso del ingrediente actual.
+  <img width="915" height="515" alt="image" src="https://github.com/user-attachments/assets/395cbe43-91e8-4b84-89eb-7851b8183906" />
+
+  Botón 'Siguiente Ingrediente': Este permite pasar al próximo ingrediente (solamente en el primer ingrediente) sin necesidad de completar las bolsas que en la pantalla anterior seteo el usuario.
+  Una vez que el usuario coloque el ingrediente en la bolsa y el peso se encuentre dentro del rango de tolerancia permitido, al presionar la tecla 'Enter', los datos se guardarán automáticamente. Se descontará la bolsa de la cantidad restante, y se mostrará el mensaje: 'EL PESO DEL INGREDIENTE ES CORRECTO'.
 
 
   
