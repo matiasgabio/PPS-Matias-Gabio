@@ -10,23 +10,14 @@
   - [3.1 Objetivo](#31-objetivo)
   - [3.2 Funcionalidades](#32-funcionalidades)
   - [3.3 Uso del Software](#34-uso-del-software)
-  - [3.5 Resultados y Aportes](#35-resultados-y-aportes)
-  - [3.6 Conclusiones del Proyecto 1](#36-conclusiones-del-proyecto-1)
 
 - [4. Proyecto 2 – Máquina de Reproceso de Pan y Rebozado](#4-proyecto-2--máquina-de-reproceso-de-pan-y-rebozado)
   - [4.1 Objetivo](#41-objetivo)
-  - [4.2 Requerimientos](#42-requerimientos)
-  - [4.3 Diseño Mecánico](#43-diseño-mecánico)
-  - [4.4 Diseño Eléctrico](#44-diseño-eléctrico)
-  - [4.5 Diseño Electrónico y Control](#45-diseño-electrónico-y-control)
-  - [4.6 Integración y Montaje](#46-integración-y-montaje)
-  - [4.7 Pruebas y Validación](#47-pruebas-y-validación)
-  - [4.8 Resultados y Aportes](#48-resultados-y-aportes)
-  - [4.9 Conclusiones del Proyecto 2](#49-conclusiones-del-proyecto-2)
+  - [4.2 Funcionalidades](#42-funcionalidades)
+  - [4.3 Uso del Software](#34-uso-del-software)
 
 - [5. Conclusiones Generales](#5-conclusiones-generales)
-- [6. Agradecimientos](#6-agradecimientos)
-- [7. Anexos](#7-anexos)
+- [6. Anexos](#6-anexos)
 
 
 # 1. Introducción
