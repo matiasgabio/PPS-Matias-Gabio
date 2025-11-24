@@ -100,10 +100,12 @@ Una vez escaneados todos los ingredientes de la receta, el programa pasará auto
   <img width="915" height="514" alt="image" src="https://github.com/user-attachments/assets/cecd6aa3-5333-4747-9182-af008708ddf2" />
 
   Automáticamente, se enviarán a imprimir las etiquetas que se deben pegar en las bolsas de los premix con los siguientes datos completados por el programa:
+  
   <img width="352" height="207" alt="image" src="https://github.com/user-attachments/assets/a57c4267-60f6-4075-8020-bcb9e4222bdd" />
 
 - Pesadas
   Seteadas la cantidad de bolsas, el programa comenzará a hacer un control sobre la lectura de la balanza y el peso del ingrediente actual.
+  
   <img width="915" height="515" alt="image" src="https://github.com/user-attachments/assets/395cbe43-91e8-4b84-89eb-7851b8183906" />
 
   Botón 'Siguiente Ingrediente': Este permite pasar al próximo ingrediente (solamente en el primer ingrediente) sin necesidad de completar las bolsas que en la pantalla anterior seteo el usuario.
