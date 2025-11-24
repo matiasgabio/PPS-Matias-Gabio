@@ -179,7 +179,7 @@ Flujo del proceso:
   
   Áreas disciplinares involucradas: programación.
   
-  Relación con la formación: La actividad se vincula con los conocimientos adquiridos en materias de programación, bases de datos y automatización de procesos. Permite aplicar conceptos de software orientado a la industria, como la interacción hombre-máquina, la validación de datos y la integración de sistemas con plataformas de gestión (SAP), asegurando precisión y trazabilidad en la elaboración de premix.
+  Relación con la formación: La actividad se vincula con los conocimientos adquiridos en materias de programación, bases de datos y automatización de procesos. Permite aplicar conceptos de software orientado a la industria, la validación de datos y la integración de sistemas con plataformas de gestión (SAP), asegurando precisión y trazabilidad en la elaboración de premix.
 
 - Desarrollo de equipo para reproceso de pan rallado y rebozador
   
