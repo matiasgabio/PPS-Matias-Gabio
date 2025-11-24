@@ -111,5 +111,29 @@ Una vez escaneados todos los ingredientes de la receta, el programa pasará auto
   Botón 'Siguiente Ingrediente': Este permite pasar al próximo ingrediente (solamente en el primer ingrediente) sin necesidad de completar las bolsas que en la pantalla anterior seteo el usuario.
   Una vez que el usuario coloque el ingrediente en la bolsa y el peso se encuentre dentro del rango de tolerancia permitido, al presionar la tecla 'Enter', los datos se guardarán automáticamente. Se descontará la bolsa de la cantidad restante, y se mostrará el mensaje: 'EL PESO DEL INGREDIENTE ES CORRECTO'.
 
+  <img width="915" height="513" alt="image" src="https://github.com/user-attachments/assets/8b16e30b-b31f-4c60-ab25-4266c2efb951" />
+
+  En caso de que el valor pesado no corresponde al peso de la receta, el valor de la bolsa no se restará y se hará una advertencia al usuario indicando el peso incorrecto.
+
+  <img width="915" height="514" alt="image" src="https://github.com/user-attachments/assets/9f524fa4-3634-4102-9e0d-998e824f040f" />
+
+  Una vez completadas las bolsas con el ingrediente, el programa mostrará un cartel indicando el cambio de ingrediente con su respectivo nombre.
+
+  <img width="915" height="516" alt="image" src="https://github.com/user-attachments/assets/9903de1b-6fa2-4cb4-a2b3-2642d0b10e57" />
+
+  El proceso se repite con todos los ingredientes de la receta.
+  Finalizada la receta, el programa se lo indicará al usuario y se pasará a la pantalla de notificación.
+
+  <img width="915" height="515" alt="image" src="https://github.com/user-attachments/assets/618c306d-4c2d-4cfd-92d5-2f1feaa074c7" />
+
+  Como dato a completar manualmente se pide la orden de proceso y el tipo de notificación a realizar.
+
+  <img width="915" height="514" alt="image" src="https://github.com/user-attachments/assets/2851fc67-01a2-4b9b-babb-cace901216bc" />
+
+  Con estos valores al presionar el botón 'NOTIFICAR', el programa ejecutará un script en SAP automáticamente con la transacción CORK.
+
+
+
+
 
   
