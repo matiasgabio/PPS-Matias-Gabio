@@ -1,4 +1,4 @@
-![Logo Institucional](images/LogoInstitucional.png)
+<img width="1920" height="850" alt="image" src="https://github.com/user-attachments/assets/6b823177-2214-43a0-a31b-f84b89a5ea9c" />
 # PPS - Matias Gabio
 
 # Índice
