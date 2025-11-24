@@ -9,8 +9,8 @@
 - [3. Proyecto 1 – Sistema de Control de Premix](#3-proyecto-1--sistema-de-control-de-premix-software)
   - [3.1 Objetivo](#31-objetivo)
   - [3.2 Funcionalidades](#32-funcionalidades)
-  - [3.3 Uso del Software](#33-uso-del-software)
-  - [3.4 Pruebas y Validación](#34-pruebas-y-validación)
+  - [3.3 Tecnologías y herramientas utilizadas](#33-uso-del-software)
+  - [3.4 Uso del Software](#34-uso-del-software)
   - [3.5 Resultados y Aportes](#35-resultados-y-aportes)
   - [3.6 Conclusiones del Proyecto 1](#36-conclusiones-del-proyecto-1)
 
@@ -52,4 +52,4 @@ El software está diseñado para optimizar y controlar el proceso de elaboració
 - Control de peso: La conexión con una balanza permite registrar los pesos de los ingredientes en tiempo real, asegurando la precisión en cada etapa del proceso y advirtiendo al operador el pesaje incorrecto del ingrediente.
 - Notificación automatizada: Una vez pesadas las cantidades requeridas, el software se encarga de notificar automáticamente a SAP (mediante la transacción CORK) la cantidad de bolsas procesadas, simplificando la carga administrativa.
 
-## 3.3 Uso del Software
+## 3.4 Uso del Software
