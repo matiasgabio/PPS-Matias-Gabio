@@ -14,7 +14,7 @@
 - [4. Proyecto 2 – Equipo de Reproceso de Pan y Rebozado](#4-proyecto-2--equipo-de-reproceso-de-pan-y-rebozado)
   - [4.1 Objetivo](#41-objetivo)
   - [4.2 Funcionalidades](#42-funcionalidades)
-  - [4.3 Uso del equipo](#34-uso-del-equipo)
+  - [4.3 Uso del equipo](#43-uso-del-equipo)
 
 - [5. Conclusiones Generales](#5-conclusiones-generales)
 - [6. Anexos](#6-anexos)
@@ -142,6 +142,19 @@ El producto ingresado por la tolva pasa por el tamiz, que retira cuerpos extrañ
 El material tamizado es impulsado por la bomba hacia el ciclón superior y descargado directamente al silo final, permitiendo un reproceso continuo y sin acumulación de producto.
 
 ## 4.3 Uso del equipo
+El orden de encendido de los equipos es:
+1 – Turbina
+2 – Exclusa
+3 – Tamiz
+
+<img width="408" height="326" alt="image" src="https://github.com/user-attachments/assets/9f556318-9860-4ad5-aa86-ddb533a27a13" />
+
+Los equipos se encuentran enclavados para no permitir ningún encendido incorrecto para evitar saturaciones de producto en los distintos puntos.
+
+La selectora superior permite elegir el tipo de producto, y comanda la válvula (7) que se encuentra en la parte superior, a la salida del ciclón (8) y deriva a Pan (5) o Rebozador (6)
+
+<img width="389" height="420" alt="image" src="https://github.com/user-attachments/assets/0085a8ef-79ff-46c5-b605-f894be5387b4" /> <img width="331" height="420" alt="image" src="https://github.com/user-attachments/assets/e7e8728e-2d99-4394-9c55-2296cbc160cf" />
+
 
 
 
