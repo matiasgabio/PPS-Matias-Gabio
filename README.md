@@ -17,7 +17,6 @@
   - [4.3 Uso del equipo](#43-uso-del-equipo)
 
 - [5. Conclusiones Generales](#5-conclusiones-generales)
-- [6. Anexos](#6-anexos)
 
 
 # 1. Introducción
@@ -171,5 +170,14 @@ Flujo del proceso:
 <img width="254" height="405" alt="image" src="https://github.com/user-attachments/assets/3067b82b-382f-482c-8f68-721b8853f23e" />
 
 
+
+# 5. Conclusiones Generales
+- Desarrollo de programa para el guiado en la elaboración de premix
+  Áreas disciplinares involucradas: Programación.
+  Relación con la formación: La actividad se vincula con los conocimientos adquiridos en materias de programación, bases de datos y automatización de procesos. Permite aplicar conceptos de software orientado a la industria, como la interacción hombre-máquina, la validación de datos y la integración de sistemas con plataformas de gestión (SAP), asegurando precisión y trazabilidad en la elaboración de premix.
+
+- Desarrollo de equipo para reproceso de pan rallado y rebozador
+  Áreas disciplinares involucradas: Mecánica y electrónica.
+  Relación con la formación: La experiencia se relaciona con los saberes adquiridos en diseño mecánico y electrónica aplicada. La instalación integra mecanismos de transporte y reproceso con actuadores y sensores, aplicando principios de automatización industrial. Esto permite llevar a la práctica la combinación de disciplinas propias de la Ingeniería Mecatrónica para optimizar procesos en la industria.
 
 
