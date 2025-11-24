@@ -27,7 +27,8 @@ Este repositorio reúne los trabajos realizados en el marco del proyecto desarro
 El proyecto fue llevado a cabo en Molinos Río de la Plata. Comprendió el desarrollo de un software específico ("Programa para control de premix") y el diseño de una máquina que integra componentes mecánicos y eléctricos, orientada a mejorar procesos internos y aportar una solución aplicable al entorno industrial de la empresa ("Sistema de reproceso de pan y rebozado").
 
 # 2. Descripción de la Empresa
-
+Molinos Río de la Plata S.A. es una de las principales compañías del sector alimenticio en Argentina. Fundada en 1902, posee una trayectoria de más de un siglo elaborando alimentos, consolidándose como un referente en la industria. La empresa cuenta con más de 2.800 colaboradores y opera 14 plantas productivas distribuidas en el país, donde se fabrican productos pertenecientes a marcas ampliamente reconocidas, tales como Matarazzo, Lucchetti, Granja del Sol, Gallo, Gallo Snacks, Cocinero, Exquisita, La Salteña, Bodega Nieto Senetiner, entre otras.
+Dentro de su infraestructura industrial se destaca la planta de Esteban Echeverría, donde se producen rebozador, pan rallado, horneables, premezclas, obleas y bizcochos sin TACC. Es en esta planta donde se desarrollaron los proyectos correspondientes a la Práctica Profesional Supervisada.
 
 # 3. Proyecto 1 – Sistema de Control de Premix
 ## 3.1 Objetivo
