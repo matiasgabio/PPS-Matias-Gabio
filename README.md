@@ -11,10 +11,10 @@
   - [3.2 Funcionalidades](#32-funcionalidades)
   - [3.3 Uso del Software](#34-uso-del-software)
 
-- [4. Proyecto 2 – Máquina de Reproceso de Pan y Rebozado](#4-proyecto-2--máquina-de-reproceso-de-pan-y-rebozado)
+- [4. Proyecto 2 – Equipo de Reproceso de Pan y Rebozado](#4-proyecto-2--equipo-de-reproceso-de-pan-y-rebozado)
   - [4.1 Objetivo](#41-objetivo)
   - [4.2 Funcionalidades](#42-funcionalidades)
-  - [4.3 Uso del Software](#34-uso-del-software)
+  - [4.3 Uso del equipo](#34-uso-del-equipo)
 
 - [5. Conclusiones Generales](#5-conclusiones-generales)
 - [6. Anexos](#6-anexos)
@@ -123,9 +123,26 @@ Una vez escaneados todos los ingredientes de la receta, el programa pasará auto
 
   Con estos valores al presionar el botón 'NOTIFICAR', el programa ejecutará un script en SAP automáticamente con la transacción CORK.
 
-# 4. Proyecto 2 – Máquina de Reproceso de Pan y Rebozado
+# 4. Proyecto 2 – Equipo de Reproceso de Pan y Rebozado
 ## 4.1 Objetivo
+El objetivo principal de este equipo es asegurar un reproceso eficiente, continuo y seguro del pan rallado y rebozador, evitando acumulaciones, optimizando el flujo hacia el silo de producto terminado y garantizando la calidad del material reprocesado mediante una operación confiable y autónoma.
+
+## 4.2 Funcionalidades
+El equipo de reproceso está diseñado para garantizar un flujo continuo, seguro y eficiente del pan rallado y rebozador hacia el silo de producto terminado. Su operación automática, junto con los enclavamientos, asegura que cada etapa del proceso se realice en el orden correcto para evitar saturaciones.
+
+### Principales funcionalidades:
+- Secuencia automática de encendido:
+El sistema garantiza que los equipos arranquen únicamente en el orden correcto: Turbina → Exclusa → Tamiz
+Esto evita acumulaciones o sobrecargas de producto en cualquier punto del circuito.
+- Selección y derivación del producto:
+La selectora permite elegir Pan o Rebozador, accionando automáticamente la válvula derivadora del ciclón para dirigir el material a la línea correspondiente.
+- Tamizado y extracción de impurezas:
+El producto ingresado por la tolva pasa por el tamiz, que retira cuerpos extraños y los expulsa por la descarga, asegurando calidad del material reprocesado.
+- Transporte y envío al silo:
+El material tamizado es impulsado por la bomba hacia el ciclón superior y descargado directamente al silo final, permitiendo un reproceso continuo y sin acumulación de producto.
+
+## 4.3 Uso del equipo
 
 
 
-  
+
