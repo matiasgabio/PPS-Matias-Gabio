@@ -163,9 +163,11 @@ El volcado del producto se realiza en la tolva (10), y pasa por el tamiz, que el
 <img width="355" height="420" alt="image" src="https://github.com/user-attachments/assets/4e216950-c7bc-4301-bbad-776ea380bb24" />
 
 Foto del equipo:
+
 <img width="598" height="797" alt="image" src="https://github.com/user-attachments/assets/4070e803-b14f-4d58-b787-b9f31365267b" /> 
 
 Flujo del proceso:
+
 <img width="254" height="405" alt="image" src="https://github.com/user-attachments/assets/3067b82b-382f-482c-8f68-721b8853f23e" />
 
 
