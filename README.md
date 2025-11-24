@@ -143,8 +143,11 @@ El material tamizado es impulsado por la bomba hacia el ciclón superior y desca
 
 ## 4.3 Uso del equipo
 El orden de encendido de los equipos es:
+
 1 – Turbina
+
 2 – Exclusa
+
 3 – Tamiz
 
 <img width="408" height="326" alt="image" src="https://github.com/user-attachments/assets/9f556318-9860-4ad5-aa86-ddb533a27a13" />
