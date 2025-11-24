@@ -9,8 +9,7 @@
 - [3. Proyecto 1 – Sistema de Control de Premix](#3-proyecto-1--sistema-de-control-de-premix-software)
   - [3.1 Objetivo](#31-objetivo)
   - [3.2 Funcionalidades](#32-funcionalidades)
-  - [3.3 Tecnologías y herramientas utilizadas](#33-uso-del-software)
-  - [3.4 Uso del Software](#34-uso-del-software)
+  - [3.3 Uso del Software](#34-uso-del-software)
   - [3.5 Resultados y Aportes](#35-resultados-y-aportes)
   - [3.6 Conclusiones del Proyecto 1](#36-conclusiones-del-proyecto-1)
 
@@ -52,4 +51,31 @@ El software está diseñado para optimizar y controlar el proceso de elaboració
 - Control de peso: La conexión con una balanza permite registrar los pesos de los ingredientes en tiempo real, asegurando la precisión en cada etapa del proceso y advirtiendo al operador el pesaje incorrecto del ingrediente.
 - Notificación automatizada: Una vez pesadas las cantidades requeridas, el software se encarga de notificar automáticamente a SAP (mediante la transacción CORK) la cantidad de bolsas procesadas, simplificando la carga administrativa.
 
-## 3.4 Uso del Software
+## 3.3 Uso del Software
+- Inicio sesión SAP
+  Inicialmente para evitar errores futuros en el programa se debe iniciar sesión en SAP GUI
+  <img width="915" height="481" alt="image" src="https://github.com/user-attachments/assets/4705d130-4a80-4ee7-979b-061a2c8089e5" />
+  Una vez iniciada la sesión no se requiere ninguna acción más dentro de SAP.
+  
+- Identificación del usuario
+  <img width="915" height="514" alt="image" src="https://github.com/user-attachments/assets/d745091e-aa7d-45b5-98ea-fd99cc8c7c96" />
+
+  Al aproximar la tarjeta al lector automáticamente se detectará el nombre del usuario:
+  <img width="915" height="514" alt="image" src="https://github.com/user-attachments/assets/d42456d0-2d76-4b6c-a306-a00948403110" />
+
+  En caso de que el usuario no este registrado el programa lo advertirá y pedirá nuevamente la aproximación de la tarjeta
+  <img width="915" height="515" alt="image" src="https://github.com/user-attachments/assets/814ae7d7-9c01-41d1-be14-b38a15c749dc" />
+
+- Selección de receta
+  <img width="915" height="514" alt="image" src="https://github.com/user-attachments/assets/855d2c8f-4c5f-4ecd-bcd8-774f9cfe1361" />
+
+- Verificación de ingredientes
+  <img width="915" height="514" alt="image" src="https://github.com/user-attachments/assets/e48c627f-7729-4da1-8b96-5039d2d0d286" />
+
+  Botón 'CAMBIAR RECETA': regresa a la pantalla anterior. Permite editar la selección de receta en caso de haber seleccionado una incorrecta.
+  
+
+
+
+
+  
