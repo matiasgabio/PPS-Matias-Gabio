@@ -155,6 +155,11 @@ La selectora superior permite elegir el tipo de producto, y comanda la válvula 
 
 <img width="389" height="420" alt="image" src="https://github.com/user-attachments/assets/0085a8ef-79ff-46c5-b605-f894be5387b4" /> <img width="331" height="420" alt="image" src="https://github.com/user-attachments/assets/e7e8728e-2d99-4394-9c55-2296cbc160cf" />
 
+El volcado del producto se realiza en la tolva (10), y pasa por el tamiz, que elimina cualquier cuerpo extraño, expulsándolos del sistema por la descarga (9). El producto sube impulsado por bomba a través de la cañería vertical hasta el ciclón en la parte superior:
+
+<img width="355" height="420" alt="image" src="https://github.com/user-attachments/assets/4e216950-c7bc-4301-bbad-776ea380bb24" />
+
+<img width="598" height="797" alt="image" src="https://github.com/user-attachments/assets/4070e803-b14f-4d58-b787-b9f31365267b" /> <img width="254" height="405" alt="image" src="https://github.com/user-attachments/assets/3067b82b-382f-482c-8f68-721b8853f23e" />
 
 
 
