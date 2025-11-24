@@ -123,7 +123,8 @@ Una vez escaneados todos los ingredientes de la receta, el programa pasará auto
 
   Con estos valores al presionar el botón 'NOTIFICAR', el programa ejecutará un script en SAP automáticamente con la transacción CORK.
 
-
+# 4. Proyecto 2 – Máquina de Reproceso de Pan y Rebozado
+## 4.1 Objetivo
 
 
 
